@@ -1,0 +1,12 @@
+{
+  "name": "writecute",
+  "version": "1.0.0",
+  "description": "WriteCute - A PWA Rich Text Editor for Cute Drama Writers",
+  "scripts": {
+    "start": "serve public",
+    "build": "echo 'No build step required for static PWA.'"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
